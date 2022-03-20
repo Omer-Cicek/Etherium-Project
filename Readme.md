@@ -1,6 +1,6 @@
 # Etherium Project
 
-![Design preview for the Etherium Card Project](EtheriumProject.jpg)
+![Design preview for the Etherium Card Project](EtheriumProject.png)
 
 ## Welcome! 👋
 
