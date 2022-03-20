@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks to visit my Github! In this project, i used flexbox. This project is created with pure CSS. Here is link for this project (https://omer-cicek.github.io/Etherium-Project/)
+Thanks to visit my Github! In this project, i used flexbox. This project is created with pure CSS. Here is the link for this project (https://omer-cicek.github.io/Etherium-Project/)
 
 **To do this project, i used basic HTML and CSS.**
 
